@@ -1,0 +1,27 @@
+
+
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(157,54,118,1) 56%, rgba(0,212,255,1) 59%, rgba(113,9,121,1) 72%);
+}
+
+h1{
+    color:aliceblue;
+    font-size: 50px;
+    text-shadow: 1px 1px 0px red;
+    margin: 20px;
+}
+
+h2{
+    color:aliceblue;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px black;
+    margin: 20px;
+}
+
+
+
+
+
+
+
